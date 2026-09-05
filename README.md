@@ -1,36 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:111827&height=8&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F4F1EA&height=12&section=header" width="100%"/>
 
 <br/>
 
 # SUHANUR RAHMAN
 
-### Technology Analyst · Research Technology · Digital Investigations · AI
+### TECHNOLOGY ANALYST / RESEARCH / DIGITAL INVESTIGATIONS / AI
 
 <p>
-  <a href="https://suhanurrahman.com"><img src="https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/suhanrahman/"><img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/suhanr"><img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://suhanurrahman.com">PORTFOLIO</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/suhanrahman/">LINKEDIN</a> &nbsp; / &nbsp;
+  <a href="https://github.com/suhanr">GITHUB</a>
 </p>
 
 <br/>
 
-> **I build technology that helps people research, investigate, verify, and understand information.**
+<table>
+<tr>
+<td align="left" width="58%">
+
+## TECHNOLOGY × INFORMATION
+
+I build digital systems, research workflows and practical AI tools at the intersection of **technology, data and information reliability**.
+
+My work moves between software, research technology and digital investigations, with a focus on making complex information more structured, verifiable and useful.
+
+</td>
+<td align="center" width="42%">
+
+### 01
+**RESEARCH**
+
+### 02
+**BUILD**
+
+### 03
+**INVESTIGATE**
+
+### 04
+**AUTOMATE**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1F2937&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4F1EA&height=70&section=footer" width="100%"/>
 
 </div>
 
 ## 01 / PROFILE
 
-I work at the intersection of **technology, research, data, and information reliability**.
+I work across **research technology, data systems, web development, technical investigation and applied AI**.
 
-My work spans research technology, digital data systems, web applications, technical investigations, and applied AI. I enjoy turning complex real-world problems into practical systems, tools, and workflows.
-
-Currently, I work with **The Dissent**, contributing across technology, research, digital investigations, and information analysis.
+Currently at **The Dissent**, where technology and research meet investigative journalism. My work includes technical research, digital investigations, web and infrastructure analysis, research data systems and technology-enabled workflows.
 
 <br/>
 
@@ -40,16 +65,16 @@ Currently, I work with **The Dissent**, contributing across technology, research
 
 ### RESEARCH TECHNOLOGY
 
-Designing reliable systems for field research, structured data collection, validation, analysis, and operational workflows.
+Digital systems for field research, structured data collection, validation and analysis.
 
 `KoboToolbox` `XLSForm` `ODK` `STATA`
 
 </td>
 <td width="50%" valign="top">
 
-### DIGITAL INVESTIGATIONS
+### DIGITAL INVESTIGATION
 
-Technical research into online infrastructure, cyber incidents, digital evidence, and information reliability.
+Technical research around online infrastructure, cyber incidents, digital evidence and information reliability.
 
 `OSINT` `Web Analysis` `Technical Research`
 
@@ -58,18 +83,18 @@ Technical research into online infrastructure, cyber incidents, digital evidence
 <tr>
 <td width="50%" valign="top">
 
-### SOFTWARE & WEB
+### SOFTWARE / WEB
 
-Building web applications, internal tools, APIs, and digital platforms designed around real-world use cases.
+Practical web applications, internal tools, APIs and digital platforms.
 
 `React` `Next.js` `Node.js` `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
 
-### AI & AUTOMATION
+### AI / AUTOMATION
 
-Exploring practical AI systems for research, automation, content workflows, and productivity.
+AI-assisted workflows, intelligent tools and automation for research and digital work.
 
 `LLMs` `AI Agents` `Automation`
 
@@ -85,40 +110,40 @@ Exploring practical AI systems for research, automation, content workflows, and 
 <tr>
 <td width="50%" valign="top">
 
-### [The Dissent Photocard](https://github.com/suhanr/thedissent-photocard)
+### 01 — THE DISSENT PHOTOCARD
 
-A web-based visual publishing tool for creating social media photo cards and editorial graphics.
+Editorial visual publishing tool for creating social media photo cards and graphics.
 
-`Web App` `Design Tools` `JavaScript`
+<a href="https://github.com/suhanr/thedissent-photocard">VIEW PROJECT ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-### [Next-Gen Claude Skills](https://github.com/suhanr/next-gen-claude-skills)
+### 02 — NEXT-GEN CLAUDE SKILLS
 
-A structured library of specialized professional skills designed for AI-assisted workflows.
+A structured library of specialized professional skills for AI-assisted workflows.
 
-`AI` `Agents` `Prompt Engineering`
+<a href="https://github.com/suhanr/next-gen-claude-skills">VIEW PROJECT ↗</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Shop Website](https://github.com/suhanr/Shop-Website)
+### 03 — MARKDOWN MAKER
 
-A full-stack e-commerce project exploring modern web architecture and digital commerce workflows.
+A document-oriented tool for transforming and working with Markdown content.
 
-`Web` `E-commerce` `Full Stack`
+<a href="https://github.com/suhanr/markdown-maker">PRIVATE REPOSITORY</a>
 
 </td>
 <td width="50%" valign="top">
 
-### Research Data Systems
+### 04 — RESEARCH DATA SYSTEMS
 
-Technology-driven data collection systems built for research and field operations, with a focus on quality, structure, and analysis.
+Technology-driven collection and management systems for research and field operations.
 
-`KoboToolbox` `XLSForm` `Data Systems`
+`DATA` / `FIELD` / `ANALYSIS`
 
 </td>
 </tr>
@@ -126,72 +151,58 @@ Technology-driven data collection systems built for research and field operation
 
 <br/>
 
-## 03 / TECHNOLOGY
+## 03 / STACK
 
-<div align="center">
-
-**LANGUAGES**
-
-`JavaScript` `TypeScript` `Python` `SQL` `HTML` `CSS`
-
-**WEB & BACKEND**
-
-`React` `Next.js` `Node.js` `Express.js` `REST APIs`
-
-**DATA & RESEARCH**
-
-`KoboToolbox` `XLSForm` `ODK` `STATA` `R`
-
-**DATABASE & INFRASTRUCTURE**
-
-`PostgreSQL` `Prisma` `Linux` `Git` `GitHub` `VPS` `Cloudflare`
-
-**PLATFORMS**
-
-`WordPress` `WooCommerce` `Elementor`
-
-</div>
+| DOMAIN | TECHNOLOGY |
+|:--|:--|
+| **LANGUAGES** | JavaScript · TypeScript · Python · SQL · HTML · CSS |
+| **WEB** | React · Next.js · Node.js · Express.js · REST APIs |
+| **DATA** | KoboToolbox · XLSForm · ODK · STATA · R |
+| **DATABASE** | PostgreSQL · Prisma |
+| **INFRASTRUCTURE** | Linux · Git · GitHub · VPS · Cloudflare |
+| **PLATFORMS** | WordPress · WooCommerce · Elementor |
+| **AI** | LLMs · AI Agents · Automation · Prompt Engineering |
 
 <br/>
 
-## 04 / WHAT I CARE ABOUT
+## 04 / AREAS OF INTEREST
 
 <div align="center">
 
-| 01 | 02 | 03 | 04 |
-|:---:|:---:|:---:|:---:|
-| **INFORMATION** | **INVESTIGATION** | **RESEARCH** | **INTELLIGENCE** |
-| Reliability | Digital Investigation | Research Technology | Applied AI |
+<table>
+<tr>
+<td align="center"><b>INFORMATION</b><br/>Reliability</td>
+<td align="center"><b>INVESTIGATION</b><br/>Digital Research</td>
+<td align="center"><b>RESEARCH</b><br/>Technology</td>
+<td align="center"><b>INTELLIGENCE</b><br/>Applied AI</td>
+</tr>
+</table>
 
 </div>
 
-I am particularly interested in the space where **technology meets society**: cybersecurity, digital verification, information integrity, civic technology, investigative research, and artificial intelligence.
+I am particularly interested in **cybersecurity, digital verification, information integrity, civic technology, investigative research and artificial intelligence**.
 
 <br/>
 
 ## 05 / EXPERIENCE
 
-### The Dissent
+### THE DISSENT
 **Technology · Research · Digital Investigations**
 
-- Technical research and digital investigations
-- Web and infrastructure analysis
-- Research data systems and technical workflows
-- Investigation of cyber-related incidents
-- Technical support for investigative journalism
+Technical research, digital investigations, web and infrastructure analysis, research data systems, and technology support for investigative journalism.
 
-### Education
-**Southeast University** · Computer Science & Engineering
+### SOUTHEAST UNIVERSITY
+**Computer Science & Engineering**
 
 <br/>
 
-## 06 / GITHUB
+## 06 / GITHUB SIGNALS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suhanr&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=suhanr&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanr&layout=compact&hide_border=true&theme=transparent" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanr&layout=compact&hide_border=true&theme=transparent" height="165"/>
 
 <br/><br/>
 
@@ -201,26 +212,26 @@ I am particularly interested in the space where **technology meets society**: cy
 
 <br/>
 
-## 07 / CURRENTLY EXPLORING
+## 07 / NOW
 
-`AI Agents` · `Cybersecurity` · `Digital Verification` · `Civic Technology` · `Information Integrity` · `AI-assisted Development`
+**Exploring:** `AI Agents` · `Cybersecurity` · `Digital Verification` · `Civic Technology` · `Information Integrity` · `AI-assisted Development`
 
 <br/>
 
 <div align="center">
 
-### LET'S BUILD SOMETHING USEFUL.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F4F1EA&height=2&section=footer" width="100%"/>
 
-<a href="https://suhanurrahman.com">WEBSITE</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/suhanrahman/">LINKEDIN</a> &nbsp;·&nbsp;
-<a href="https://github.com/suhanr">GITHUB</a>
+<br/>
 
-<br/><br/>
+### BUILD WITH PURPOSE.
 
-<sub>Technology is most useful when it helps us understand the world better.</sub>
+<a href="https://suhanurrahman.com">WEBSITE ↗</a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/suhanrahman/">LINKEDIN ↗</a> &nbsp;&nbsp; <a href="https://github.com/suhanr">GITHUB ↗</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0B0F19&height=90&section=footer" width="100%"/>
+<sub>Technology · Information · Research · Intelligence</sub>
+
+<br/><br/>
 
 </div>
