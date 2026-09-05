@@ -1,185 +1,152 @@
-# Hi, I'm Suhanur Rahman
+<div align="center">
 
-### Technology Analyst · Research & Data Systems · Digital Investigations · AI
+# SUHANUR RAHMAN
 
-I work at the intersection of technology, research, data, and information reliability.
+### Technology Analyst · Research Technology · Digital Investigations · AI
 
-My work involves designing digital systems for research and field data collection, building web-based tools and platforms, analyzing structured data, and investigating how information is created, distributed, and manipulated in digital environments.
+<p>
+  <a href="https://suhanurrahman.com">Website</a> ·
+  <a href="https://www.linkedin.com/in/suhanrahman/">LinkedIn</a> ·
+  <a href="https://github.com/suhanr">GitHub</a>
+</p>
 
-Currently, I work with The Dissent, where my work combines technical research, digital investigations, technology, and information analysis.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=120&section=header" width="100%"/>
 
----
+</div>
 
-## About Me
+## About
 
-* Technology Analyst working across technology, research, and digital systems
-* Research and technical contributor at **The Dissent**
-* Experienced in research data collection, management, validation, and analysis
-* Build digital tools and systems for research and operational workflows
-* Interested in information integrity, cybersecurity, digital investigations, and emerging AI technologies
-* Background in Computer Science & Engineering
+I work at the intersection of **technology, research, data, and information reliability**.
 
-I am particularly interested in using technology not only to build software, but also to investigate complex problems, improve research processes, and make information more reliable.
+My work spans research technology, digital data systems, web applications, technical investigations, and applied AI. I build practical systems that help teams collect, manage, analyze, verify, and communicate information more effectively.
 
----
+Currently, I work with **The Dissent**, contributing across technology, research, digital investigations, and information analysis.
 
-## Areas of Work
+## What I Do
 
-### Research & Data Systems
+<table>
+<tr>
+<td width="50%">
 
-Designing and deploying technology-driven systems for:
+### Research Technology
 
-`Digital Data Collection` · `Research Operations` · `XLSForm` · `KoboToolbox` · `Data Quality` · `Data Analysis` · `Visualization`
+Designing reliable digital systems for field research, data collection, validation, and analysis.
 
-### Technology & Web
+`KoboToolbox` `XLSForm` `ODK` `STATA`
 
-Building and maintaining:
-
-`Web Applications` · `Internal Tools` · `WordPress` · `WooCommerce` · `REST APIs` · `Full-Stack Applications`
+</td>
+<td width="50%">
 
 ### Digital Investigations
 
-Working with open-source information, digital evidence, web infrastructure, and technical research to investigate online activity and information reliability.
+Technical research into online infrastructure, cyber incidents, digital evidence, and information reliability.
 
-My work at The Dissent has included investigations involving compromised government websites, cyber threats, and suspicious digital activity.
+`OSINT` `Web Analysis` `Technical Research`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Software & Web
+
+Building web applications, internal tools, APIs, and digital platforms for real-world workflows.
+
+`React` `Node.js` `Next.js` `PostgreSQL`
+
+</td>
+<td width="50%">
 
 ### AI & Automation
 
-Exploring practical applications of:
+Exploring practical AI systems for research, automation, content workflows, and productivity.
 
-`LLMs` · `AI Agents` · `Workflow Automation` · `AI-assisted Research` · `Intelligent Tools`
+`LLMs` `AI Agents` `Automation`
 
----
+</td>
+</tr>
+</table>
 
-## Technical Stack
+## Technology Stack
 
-### Languages
+**Languages**
 
 `JavaScript` `TypeScript` `Python` `SQL` `HTML` `CSS`
 
-### Web & Backend
+**Frontend & Backend**
 
-`React` `Node.js` `Express.js` `Next.js` `REST APIs`
+`React` `Next.js` `Node.js` `Express.js` `REST APIs`
 
-### Database
-
-`PostgreSQL` `Prisma`
-
-### Research & Data
+**Data & Research**
 
 `KoboToolbox` `XLSForm` `ODK` `STATA` `R`
 
-### Web Platforms
+**Database & Infrastructure**
+
+`PostgreSQL` `Prisma` `Linux` `Git` `GitHub` `VPS` `Cloudflare`
+
+**Platforms**
 
 `WordPress` `WooCommerce` `Elementor`
 
-### Infrastructure & Tools
+## Professional Focus
 
-`Git` `GitHub` `Linux` `VPS` `Cloudflare`
+<table>
+<tr>
+<td align="center"><b>01</b><br/>Information Reliability</td>
+<td align="center"><b>02</b><br/>Digital Investigation</td>
+<td align="center"><b>03</b><br/>Research Technology</td>
+<td align="center"><b>04</b><br/>Applied AI</td>
+</tr>
+</table>
 
-### AI
-
-`LLMs` `AI Agents` `Automation` `Prompt Engineering`
-
----
-
-## Selected Focus Areas
-
-**Information Reliability**
-Understanding how information is collected, verified, manipulated, and distributed across digital systems.
-
-**Digital Investigation**
-Using technical analysis and open-source information to investigate cyber incidents, online infrastructure, and emerging digital threats.
-
-**Research Technology**
-Building reliable data collection and research systems that improve field operations, data quality, and analysis.
-
-**Applied AI**
-Developing practical AI-powered tools and workflows for research, automation, content, and productivity.
-
----
-
-## Professional Experience
+## Selected Experience
 
 ### The Dissent
+**Technology · Research · Digital Investigations**
 
-**Technology & Research**
+- Technical research and digital investigations
+- Web and infrastructure analysis
+- Research data systems and technical workflows
+- Investigation of cyber-related incidents
+- Technical support for investigative journalism
 
-Working across technology, research, digital investigations, and information analysis.
+### Research & Data Systems
 
-Selected areas of contribution include:
-
-* Digital investigation and technical research
-* Web and infrastructure analysis
-* Research technology and data systems
-* Investigation of cyber-related incidents
-* Technical support for investigative journalism
-
-The Dissent's public author profile identifies me as a Researcher & Technical Assistant, with published investigations covering topics including cyber espionage and compromised government web domains.
-
-### Previous Experience
-
-**Centre for Qualitative Research**
-Information & Technology
-
-Worked across information technology, research systems, data management, websites, digital platforms, and organizational technology.
-
----
+Designed and deployed technology-driven data collection systems for research and field operations, with a focus on data quality, structured workflows, and analysis.
 
 ## Education
 
-**Southeast University**
+**Southeast University**  
 Computer Science & Engineering
 
----
+## Currently Exploring
 
-## Certifications
+`AI Agents` · `Cybersecurity` · `Digital Verification` · `Civic Technology` · `Information Integrity` · `AI-assisted Development`
 
-**Big Data Analysis**
-MuktoPaath · 2025
+## GitHub Activity
 
-**R Programming for Data Science**
-Great Learning · 2023
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=suhanr&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanr&layout=compact&hide_border=true" height="165"/>
 
-## Beyond Code
+<br/>
 
-I am interested in the space where technology meets society.
+<img src="https://streak-stats.demolab.com?user=suhanr&hide_border=true" width="70%"/>
 
-That includes:
-
-`Cybersecurity` · `Digital Verification` · `Information Integrity` · `Investigative Research` · `Civic Technology` · `Artificial Intelligence`
-
-I enjoy building systems, investigating difficult problems, and turning complex information into something useful and understandable.
-
----
+</div>
 
 ## Connect
 
-**Website:**
-https://suhanurrahman.com
+<div align="center">
 
-**Blog:**
-https://blog.suhanurrahman.com
+<a href="https://suhanurrahman.com">suhanurrahman.com</a> ·
+<a href="https://www.linkedin.com/in/suhanrahman/">LinkedIn</a> ·
+<a href="https://github.com/suhanr">GitHub</a>
 
-**LinkedIn:**
-https://www.linkedin.com/in/suhanrahman/
+<br/><br/>
 
-**GitHub:**
-https://github.com/suhanr
+<i>Building useful systems where technology meets research, information, and society.</i>
 
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhanr&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanr&layout=compact&hide_border=true" height="170"/>
-</p>
-
----
-
-<p align="center">
-  <i>Technology is most useful when it helps us understand the world better.</i>
-</p>
+</div>
