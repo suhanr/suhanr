@@ -87,23 +87,3 @@ My main areas of interest are:
     <img src="https://streak-stats.demolab.com?user=suhanr&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   </a>
 </p>
-
----
-
-# Currently Exploring
-
-`AI Agents` · `Cybersecurity` · `Digital Verification` · `Civic Technology` · `Information Integrity` · `AI-assisted Development`
-
----
-
-<div align="center">
-
-### BUILD WITH PURPOSE.
-
-<a href="https://suhanurrahman.com">WEBSITE ↗</a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/suhanrahman/">LINKEDIN ↗</a> &nbsp;&nbsp; <a href="https://github.com/suhanr">GITHUB ↗</a>
-
-<br/><br/>
-
-<sub>Technology · Information · Research · Intelligence</sub>
-
-</div>
