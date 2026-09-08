@@ -121,6 +121,22 @@ Working across technical research, digital investigations, web and infrastructur
 
 ---
 
+# GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/suhanr">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhanr&theme=tokyonight" alt="GitHub Profile Summary" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/suhanr">
+    <img src="https://streak-stats.demolab.com?user=suhanr&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
 # Currently Exploring
 
 `AI Agents` · `Cybersecurity` · `Digital Verification` · `Civic Technology` · `Information Integrity` · `AI-assisted Development`
