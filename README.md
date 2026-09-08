@@ -2,18 +2,16 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=suhanr&color=brightgreen&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views" />
 </a>
 
-<h3 align="center">
-  <samp>&gt; Hey! I'm <b><a href="https://suhanurrahman.com">Suhanur Rahman</a></b></samp>
-</h3>
+<h2 align="center">
+  <strong>Hey! I'm <a href="https://suhanurrahman.com">Suhanur Rahman</a></strong>
+</h2>
 
 <p align="center">
-  <samp>
-    Technology Analyst • Software & Data Systems • AI Enthusiast
-    <br />
-    Based in <b>Dhaka, Bangladesh</b>
-    <br /><br />
-    I build practical technology solutions across software development, research technology, data systems, automation and AI.
-  </samp>
+  <strong>Technology Analyst · Software & Data Systems · AI Enthusiast</strong>
+  <br />
+  <sub>Based in Dhaka, Bangladesh</sub>
+  <br /><br />
+  I build practical technology solutions across software development, research technology, data systems, automation and AI.
 </p>
 
 <p align="center">
@@ -24,7 +22,7 @@
 
 ---
 
-# About Me
+## About Me
 
 I am a Technology Analyst with a background in Computer Science and Engineering, working across software development, research technology, data systems and digital platforms.
 
@@ -43,7 +41,7 @@ My main areas of interest are:
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -53,7 +51,7 @@ My main areas of interest are:
 
 ---
 
-# Research & Data
+## Research & Data
 
 <p align="center">
   <img src="https://img.shields.io/badge/KoboToolbox-4285F4?style=for-the-badge" />
@@ -74,7 +72,7 @@ My main areas of interest are:
 
 ---
 
-# GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/suhanr">
