@@ -43,22 +43,6 @@ My main areas of interest are:
 
 ---
 
-# What I Do
-
-### Research Technology
-Digital data collection, structured research workflows, validation, data management and analysis using KoboToolbox, XLSForm, ODK, SurveyCTO and STATA.
-
-### Software & Web Development
-Practical web applications, internal tools, APIs and digital platforms using Python, JavaScript, TypeScript, React, Next.js, Node.js and PostgreSQL.
-
-### Digital Investigation
-Technical research, web analysis, OSINT, digital verification and investigation-oriented technology workflows.
-
-### AI & Automation
-AI-assisted development, LLM applications, AI agents, workflow automation and intelligent digital tools.
-
----
-
 # Tech Stack
 
 <p align="center">
@@ -90,42 +74,11 @@ AI-assisted development, LLM applications, AI agents, workflow automation and in
 
 ---
 
-# Selected Projects
-
-### PDF Tools
-Web-based tools for working with PDF and Markdown documents.
-
-<a href="https://pdf.suhanurrahman.com"><img src="https://img.shields.io/badge/Live%20Project-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-
-### MetaClean
-A lightweight web tool for processing and cleaning image metadata.
-
-<a href="https://metaclean.suhanurrahman.com"><img src="https://img.shields.io/badge/Live%20Project-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-
-### Next Gen Claude Skills
-A structured library of specialized professional skills for AI-assisted workflows.
-
-<a href="https://github.com/suhanr/next-gen-claude-skills"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
----
-
-# Experience
-
-### The Dissent
-**Technology · Research · Digital Investigations**
-
-Working across technical research, digital investigations, web and infrastructure analysis, research data systems and technology-enabled workflows for investigative journalism.
-
-### Southeast University
-**Computer Science & Engineering**
-
----
-
 # GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/suhanr">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhanr&theme=tokyonight" alt="GitHub Profile Summary" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhanr&theme=tokyonight" />
   </a>
 </p>
 
