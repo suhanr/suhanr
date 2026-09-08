@@ -3,11 +3,11 @@
 </a>
 
 <h2 align="center">
-  <strong>Hey! I'm <a href="https://suhanurrahman.com">Suhanur Rahman</a></strong>
+  <strong>𝑯𝒆𝒚! 𝑰'𝒎 <a href="https://suhanurrahman.com">𝑺𝒖𝒉𝒂𝒏𝒖𝒓 𝑹𝒂𝒉𝒎𝒂𝒏</a></strong>
 </h2>
 
 <p align="center">
-  <strong>Technology Analyst · Software & Data Systems · AI Enthusiast</strong>
+  <strong>𝖳𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗒 𝖠𝗇𝖺𝗅𝗒𝗌𝗍 · 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 & 𝖣𝖺𝗍𝖺 𝖲𝗒𝗌𝗍𝖾𝗆𝗌 · 𝖠𝖨 𝖤𝗇𝗍𝗁𝗎𝗌𝗂𝖺𝗌𝗍</strong>
   <br />
   <sub>Based in Dhaka, Bangladesh</sub>
   <br /><br />
@@ -22,7 +22,7 @@
 
 ---
 
-## About Me
+## 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 
 I am a Technology Analyst with a background in Computer Science and Engineering, working across software development, research technology, data systems and digital platforms.
 
@@ -41,7 +41,7 @@ My main areas of interest are:
 
 ---
 
-## Tech Stack
+## 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -51,7 +51,7 @@ My main areas of interest are:
 
 ---
 
-## Research & Data
+## 𝑹𝒆𝒔𝒆𝒂𝒓𝒄𝒉 & 𝑫𝒂𝒕𝒂
 
 <p align="center">
   <img src="https://img.shields.io/badge/KoboToolbox-4285F4?style=for-the-badge" />
@@ -72,7 +72,7 @@ My main areas of interest are:
 
 ---
 
-## GitHub Analytics
+## 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔
 
 <p align="center">
   <a href="https://github.com/suhanr">
